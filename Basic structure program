@@ -1,0 +1,6 @@
+#include <stdio.h> // Includes the standard input/output library
+
+int main() { // Main function where the program starts
+    printf("Hello, World!\n"); // Prints "Hello, World!" to the console
+    return 0; // Ends the program and returns 0 to the operating system
+}
